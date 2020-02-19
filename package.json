@@ -1,0 +1,33 @@
+{
+  "name": "bing-img",
+  "version": "1.2.0",
+  "description": "bing 图片 爬虫",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxyLm/bing-img.git"
+  },
+  "keywords": [
+    "node",
+    "爬虫",
+    "图片",
+    "bing"
+  ],
+  "devDependencies": {
+    "http": "*",
+    "cheerio": "*",
+    "async": "*",
+    "request": "*",
+    "fs": "*"
+  },
+  "author": "Mr.seven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxyLm/bing-img/issues"
+  },
+  "homepage": "https://github.com/AxyLm/bing-img#readme"
+}
